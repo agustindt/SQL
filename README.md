@@ -1,2 +1,2 @@
 # SQL
-Ejercicios de MySQL
+Ejercicios de MySQL proporcionados por el Instituto Tecnico Salesiano Villada
