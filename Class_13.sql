@@ -11,7 +11,7 @@ SELECT
     1,
     'Agustin',
     'Di Tomaso',
-    agustindt95l@gmail.com',
+    'agustindt95l@gmail.com',
     MAX(ad.address_id),
     1
 FROM address ad
